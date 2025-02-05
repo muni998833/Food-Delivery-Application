@@ -1,8 +1,12 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Overview:**
+              The Food Delivery Web Application is a front-end project built using React.js, designed to provide a seamless and interactive UI for viewing menus, adding items to the cart, and managing the checkout process.
 
-Currently, two official plugins are available:
+**Features:**
+              Menu items include name, image, price, and description.
+              Add to Cart" button dynamically updates the cart state.
+              Shows selected items with the option to increase, decrease, or remove items.
+              Displays total price dynamically based on the cart contents.
+              Displays a summary of the order before finalizing.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Usage:**
