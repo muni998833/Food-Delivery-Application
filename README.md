@@ -12,5 +12,3 @@
 **Usage:**
             npm run dev #start the project
 
-**Projectlink:**
-              http://localhost:5174/
